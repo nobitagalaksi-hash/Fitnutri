@@ -1,0 +1,5 @@
+gradio==5.9.1
+pydantic==2.10.6
+google-genai>=1.0.0
+pillow
+pandas
